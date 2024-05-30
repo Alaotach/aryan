@@ -9,6 +9,10 @@ body {
   margin: 0;
   font-family: Mom;
   background-color: #2C3E50;
+  background-image: url(./stormseeker-rX12B5uX7QM-unsplash.jpg);
+  background-size: cover;
+  background-position: center;
+  background-blend-mode: overlay;
 }
 
 a {
